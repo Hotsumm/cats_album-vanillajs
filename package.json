@@ -1,0 +1,21 @@
+{
+  "name": "cats_album-vanillajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hotsumm/cats_album-vanillajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hotsumm/cats_album-vanillajs/issues"
+  },
+  "homepage": "https://github.com/Hotsumm/cats_album-vanillajs#readme"
+}
